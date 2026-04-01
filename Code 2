@@ -3131,7 +3131,7 @@ campaignTrail_temp.answer_feedback_json = [
         "pk": 2620,
         "fields": {
             "answer": 1101,
-            "candidate": 1,
+            "candidate": 6,
             "answer_feedback": "Yes! Think big, vote pig!"
         }
     }
@@ -3183,7 +3183,7 @@ if (!e.initDC) {
   if (aa[0].candidate == 6) //Pigslide
 {
 	e.header = "<h2>One small leap for pig, one giant pigstep for pigkind!</h2>"
-	e.pages = [`<p>They couldn’t believe it either. A landswine election for Sir Oink A-lot was not predicted by any of the polls. It was expected to be a three-way race, between Labour defending the seat, Reform UK as the main challenger, and the Greens pressuring Labour from the left, but in a massive upset, Sir Oink A-Lot for the Monster Raving Loony Party brought home the bacon to win the first ever by-election for the party.</p><p>Sir Oink A-lot will head to Parliament full of dreams, eager to bring the pig iron industry back to Manchester, to stop members of Parliament from telling porkies, and from avoiding criminal charges through gaining peerages to the House of Lords. Perhaps he’s a future Swine Minister? Many in Gorton and Denton thought big and voted pig, but will the country do the same in the next general election?<p></p>`]
+	e.pages = [`<p>They couldn’t believe it either. A landswine election for Sir Oink A-lot was not predicted by any of the polls. It was expected to be a three-way race, between Labour defending the seat, Reform UK as the main challenger, and the Greens pressuring Labour from the left, but in a massive upset, Sir Oink A-Lot for the Monster Raving Loony Party brought home the bacon to win the first ever by-election for the party.</p><p>Sir Oink A-lot will head to Parliament full of dreams, eager to bring the pig iron industry back to Manchester, to stop members of Parliament from telling porkies, and from avoiding criminal charges through gaining peerages to the House of Lords. Perhaps he’s a future Swine Minister? Many in Gorton and Denton thought big and voted pig, but will the country do the same in the next general election?<p></p><p>By the way, have you checked out the further reading section? You'll find the link to the actual mod there!</p>`]
 	e.image = "https://file.garden/Zmvf_kGfBgouz-z5/2026%20Gorton%20and%20Denton/Loony%20Win.png";
 	return construct(0);
   }
